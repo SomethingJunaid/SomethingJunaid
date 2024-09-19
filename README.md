@@ -64,8 +64,6 @@ With a deep understanding of Agile methodologies, I manage teams and lead projec
 ### 👨‍💻 Expertise: Mobile Development, Project Management, Full-Stack Development  
 ### 🔧 Technologies: Java, Kotlin, Flutter, Spring Boot, JavaScript, MySQL, SQLite, REST APIs, Firebase
 
-## About Me
-I am *Muhammad Junaid, a passionate mobile developer with over **10 years* of experience. My primary focus is building high-quality mobile applications using *Flutter, **Kotlin, and **Java, with a strong backend foundation in **Spring Boot. I specialize in integrating third-party services like **Firebase, **Google Cloud, and **payment gateways*, ensuring end-to-end solutions for various projects.
 
 I also have extensive project management experience, leading mobile app projects from concept to deployment while ensuring delivery within budget and timelines. As a result, I combine technical expertise with leadership in project execution.
 
