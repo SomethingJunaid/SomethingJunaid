@@ -4,7 +4,7 @@
 ### Technologies: Java, Kotlin, Flutter, Spring Boot, JavaScript, MySQL, SQLite, REST APIs, Firebase
 
 ## About Me
-I am Junaid, a highly experienced mobile developer with over *10 years* of expertise in mobile and full-stack development. My core competencies lie in building robust mobile applications using *Flutter, **Kotlin, and **Java, coupled with strong backend development skills in **Spring Boot* and *REST APIs. I am also proficient in integrating third-party services such as **Firebase, **Google Cloud, and **payment gateways* into mobile apps, providing end-to-end solutions that scale.
+I am Junaid, a highly experienced mobile developer with over **10 years** of expertise in mobile and full-stack development. My core competencies lie in building robust mobile applications using **Flutter**, **Kotlin**, and **Java**, coupled with strong backend development skills in **Spring Boot** and **REST APIs**. I am also proficient in integrating third-party services such as **Firebase, **Google Cloud, and **payment gateways* into mobile apps, providing end-to-end solutions that scale.
 
 I have successfully led various mobile app projects, managing everything from initial design and development to deployment and ongoing maintenance. In addition to my technical skills, I have extensive experience in project management, making sure projects are delivered on time and within budget, while adhering to high standards of quality.
 
