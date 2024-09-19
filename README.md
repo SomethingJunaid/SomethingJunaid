@@ -4,7 +4,7 @@
 ### Technologies: Java, Kotlin, Flutter, Spring Boot, JavaScript, MySQL, SQLite, REST APIs, Firebase
 
 ## About Me
-I am Junaid, a highly experienced mobile developer with over **10 years** of expertise in mobile and full-stack development. My core competencies lie in building robust mobile applications using **Flutter**, **Kotlin**, and **Java**, coupled with strong backend development skills in **Spring Boot** and **REST APIs**. I am also proficient in integrating third-party services such as **Firebase, **Google Cloud, and **payment gateways* into mobile apps, providing end-to-end solutions that scale.
+I am Junaid, a highly experienced mobile developer with over **10 years** of expertise in mobile and full-stack development. My core competencies lie in building robust mobile applications using **Flutter**, **Kotlin**, and **Java**, coupled with strong backend development skills in **Spring Boot** and **REST APIs**. I am also proficient in integrating third-party services such as **Firebase**, **Google Cloud**, and **payment gateways** into mobile apps, providing end-to-end solutions that scale.
 
 I have successfully led various mobile app projects, managing everything from initial design and development to deployment and ongoing maintenance. In addition to my technical skills, I have extensive experience in project management, making sure projects are delivered on time and within budget, while adhering to high standards of quality.
 
@@ -34,13 +34,13 @@ With a deep understanding of Agile methodologies, I manage teams and lead projec
 
 ## Professional Experience
 
-### Mobile Developer at XYZ Tech Solutions (2014 - Present)
+### Mobile Developer at Exergy Systems (2020 - Present)
 - Lead developer for various mobile applications targeting both iOS and Android platforms.
 - Integrated Firebase for real-time database features, authentication, and cloud messaging.
 - Developed and deployed mobile apps using *Flutter* with Kotlin/Java-based backend services.
 - Implemented payment gateways and Google Maps API for location-based services.
 
-### Project Manager at ABC Software Solutions (2010 - 2014)
+### Mobile Developer at Reed (2017 - 2019)
 - Managed end-to-end mobile app development projects for various clients, overseeing project timelines and budgets.
 - Coordinated cross-functional teams, ensuring seamless communication and project progress.
 - Designed system architectures that efficiently integrate frontend and backend services.
