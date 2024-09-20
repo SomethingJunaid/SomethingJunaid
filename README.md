@@ -77,7 +77,7 @@ I believe in the power of clean, efficient code to solve complex problems and en
 ### 📫 Let's Connect!
 
 - **GitHub**: [github.com/somethingjunaid](https://github.com/somethingjunaid)
-- **LinkedIn**: [linkedin.com/in/somethingjunaid](https://www.linkedin.com/in/)
+- **LinkedIn**: [linkedin.com/in/somethingjunaid](https://www.linkedin.com/in/junaid-arshad-dev)
 - **Email**: [somethingjunaid@gmail.com](mailto:somethingjunaid@gmail.com)
 
 ---
