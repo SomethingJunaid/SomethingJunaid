@@ -4,53 +4,70 @@
   <img alt="Coder GIF" height=250 width=350 src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" />
 </p>
 
-# Hello there 👋
+# Muhammad Junaid - Mobile Development Specialist 👨‍💻📱
 
-### Mobile Development Specialist
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/mjunaid)](https://linkedin.com/in/mjunaid)
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/mjunaiddev)](https://github.com/mjunaiddev)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:junaid@example.com)
 
-- 🔭 I’m currently working as a Mobile Developer with expertise in Flutter, Kotlin, and Java.
-- 🌱 I’m currently learning: Advanced Cloud Solutions (AWS & Google Cloud).
-- 💬 Ask me about **Mobile Development, Full-Stack Development, Project Management, API Integration, Cloud Engineering, CI/CD, Docker, and DevOps.**
-- ⚡ Fun fact: I love transforming ideas into robust applications!
+---
 
-<br/>
+### 👨‍💻 Expertise: Mobile Development, Project Management, Full-Stack Development  
+### 🔧 Technologies: Java, Kotlin, Flutter, Spring Boot, JavaScript, MySQL, SQLite, REST APIs, Firebase
 
-<h3 align="center">Languages and Tools:</h3>
+## About Me
+I am Junaid, a highly experienced mobile developer with over **10 years** of expertise in mobile and full-stack development. My core competencies lie in building robust mobile applications using **Flutter**, **Kotlin**, and **Java**, coupled with strong backend development skills in **Spring Boot** and **REST APIs**. I also integrate third-party services like **Firebase** and **Google Cloud** into mobile apps, providing end-to-end solutions that scale.
 
+## Core Skills
+- *Programming Languages*: Java, Kotlin, Dart, JavaScript
+- *Frontend Development*: Flutter, React.js, MaterialUI
+- *Backend Technologies*: Spring Boot, Node.js, RESTful APIs
+- *Databases*: MySQL, SQLite
+- *Mobile App Development*: Flutter, Android (Java, Kotlin)
+- *Project Management*: Agile methodologies, SCRUM, JIRA, Kanban
+
+## Technical Expertise
+
+### Mobile Development
+- *Flutter & Dart*: Specializing in cross-platform mobile applications, creating sleek, high-performance apps for both iOS and Android.
+- *Kotlin & Java*: Extensive experience in native Android development, ensuring top-notch performance.
+
+### Backend Development
+- *Spring Boot & Java*: Leveraging Spring Boot to develop scalable backend services and APIs.
+- *Node.js*: Utilizing Node.js for real-time applications and services.
+
+### Project Management
+With a deep understanding of Agile methodologies, I manage teams and lead projects to successful delivery.
+
+## Professional Experience
+
+### Mobile Developer at Exergy Systems (2020 - Present)
+- Lead developer for various mobile applications targeting both iOS and Android platforms.
+- Integrated Firebase for real-time database features and cloud messaging.
+
+### Mobile Developer at Reed (2017 - 2019)
+- Managed end-to-end mobile app development projects for various clients.
+
+## Projects & Contributions
+- *Travel Planner App*: A cross-platform app for vacation planning with real-time updates.
+- *E-Commerce Mobile App*: Fully functional app with shopping cart features and payment gateway integration.
+- *Banking App*: A secure mobile banking app with transaction tracking and authentication.
+
+## Certifications & Achievements
+- *Google Certified Android Developer*
+- *Agile Certified Project Manager*
+- *Flutter & Dart Developer* - Coursera
+
+## Statistics
 <p align="center">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" height="50">&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin" height="50">&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="dart" height="50">&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" height="50">&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" height="50">&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" height="50">
-</p>
-<p align="center">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" height="50">&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" height="50">&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" height="50">&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="firebase" height="50">&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" height="50">&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" height="50">
-</p>
-<p align="center">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" height="50">&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" alt="jira" height="50">&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" alt="graphql" height="50">&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" height="50">&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" height="50">&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" height="50">
-</p>
-
-<h3 align="center">A seasoned Mobile Developer</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mjunaiddev" alt="junaid" /></a> </p>
-
-<h3 align="left">Statistics</h3>
-<p align="center">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mjunaiddev&show_icons=true&locale=en&layout=compact" alt="junaid" />
-</p>
-<p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=mjunaiddev&show_icons=true&locale=en" alt="junaid" width="40%" />&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://github-readme-stats.vercel.app/api?username=mjunaiddev&show_icons=true&locale=en" alt="junaid" width="40%" />
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mjunaiddev&" alt="junaid" width="40%" />
 </p>
+
+## Fun Facts 🌟
+- I’m always excited about emerging technologies like *AI* and *blockchain* in fintech.
+- I love contributing to open-source projects and exploring *machine learning* and *IoT*.
+
+## How to Reach Me
+- *Email*: [junaid@example.com](mailto:junaid@example.com)
+- *LinkedIn*: [linkedin.com/in/mjunaid](https://linkedin.com/in/mjunaid)
