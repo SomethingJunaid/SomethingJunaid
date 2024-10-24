@@ -22,13 +22,6 @@ I believe in the power of clean, efficient code to solve complex problems and en
 
 ---
 
-### 💼 What I Bring to the Table
-- **10+ years** of building and leading mobile development projects with a focus on **cross-platform** solutions.
-- Expertise in **Java**, **Kotlin**, and **Flutter**, creating high-performance mobile applications for both **Android** and **iOS**.
-- Proven ability to drive **40%** client satisfaction increases through seamless mobile app experiences.
-- Strong backend proficiency with **Node.js**, **Spring Boot**, and **RESTful APIs**, ensuring smooth integration and data flow.
-- Skilled in optimizing legacy systems into **microservices**, reducing system downtime by **25%** and improving response times by **35%**.
-- Advanced use of **CI/CD pipelines** with **Docker** and **Jenkins** to streamline deployments and improve team efficiency by **15%**.
 
 ---
 
@@ -65,19 +58,12 @@ I believe in the power of clean, efficient code to solve complex problems and en
 - Transformed legacy systems into microservices using **Spring Boot** and **Node.js**, reducing downtime by **25%** and improving overall system performance by **35%**.
 - Integrated advanced CI/CD pipelines using **Docker** and **Jenkins**, reducing deployment times by **20%**.
 
-- **Reed**: Spearheaded a redesign of a high-traffic e-commerce app, enhancing transactional security and stability for over **50,000 daily users**.
-- Collaborated across teams to integrate RESTful APIs and modern payment solutions, reducing server load by **30%** and improving data interchange.
-- Implemented **CI/CD pipelines** for seamless deployment, optimizing the development process and improving time-to-market for updates.
 
-- **Udacity**: Played a key role in improving mobile app stability and performance, leading to a **20%** boost in overall application quality.
-- Integrated third-party APIs for social media and payment platforms, enriching the functionality and interactivity of applications.
 
 ---
 
 ### 📫 Let's Connect!
 
-- **GitHub**: [github.com/somethingjunaid](https://github.com/somethingjunaid)
-- **LinkedIn**: [linkedin.com/in/somethingjunaid](https://www.linkedin.com/in/junaid-arshad-dev)
 - **Email**: [somethingjunaid@gmail.com](mailto:somethingjunaid@gmail.com)
 
 ---
